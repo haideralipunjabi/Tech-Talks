@@ -45,7 +45,7 @@ Couple of days after the release, Facebook replied on the bug report, and gave a
 
 After the first beta release, I focused on promoting the app. Apart from my social accounts, I also participated in [Youth Speaks](http://fourseasonskashmir.com/events.html#youthspeaks), an initiative for the youth to speak up and be outspoken, organised by [Four Season's](http://fourseasonskashmir.com).
 
-All through the developement process, a friend, [Areeb Beigh](http://areeb12.pythonanywhere.com), who is also a coder helped a lot. He didn't actually right any code, but tested the app and suggested ways to fix bugs.
+All through the developement process, a friend, [Areeb Beigh](http://areeb12.pythonanywhere.com), who is also a coder helped a lot. He didn't actually write any code, but tested the app and suggested ways to fix bugs.
 
 
 ### Lessons
@@ -53,6 +53,3 @@ All through the developement process, a friend, [Areeb Beigh](http://areeb12.pyt
 * Never rely too much on online tutorials
 * Plan the developement process, before starting
 * Release the app for testing, before a final release
-
-# --INCOMPLETE--
-* Links are missing
