@@ -45,6 +45,8 @@ Couple of days after the release, Facebook replied on the bug report, and gave a
 
 After the first beta release, I focused on promoting the app. Apart from my social accounts, I also participated in [Youth Speaks](http://fourseasonskashmir.com/events.html#youthspeaks), an initiative for the youth to speak up and be outspoken, organised by [Four Season's](http://fourseasonskashmir.com).
 
+Two months later, in June, after some bans on internet (partially as well as completely), the app was still ready to release, but waiting for that occasion. I decided to release it in mid-June, as it was a special occasion for myself.
+
 All through the developement process, a friend, [Areeb Beigh](http://areeb12.pythonanywhere.com), who is also a coder helped a lot. He didn't actually write any code, but tested the app and suggested ways to fix bugs.
 
 
